@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CYUSB3014-BZXC
+D USB Interface IC EZUSB SuperSpeedCtrl X32 256KB
+K
+F https://www.infineon.com/dgdl/Infineon-CYUSB301X_CYUSB201X_EZ-USB_FX3_SUPERSPEED_USB_CONTROLLER-DataSheet-v01_00-EN.pdf?fileId=8ac78c8c7d0d8da4017d0eca1e7442aa
+$ENDCMP
+#
+#End Doc Library

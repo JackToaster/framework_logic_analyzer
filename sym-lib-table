@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TXU0104QWBQARQ1")(type "KiCad")(uri "${KIPRJMOD}/TXU0104QWBQARQ1/KiCad/TXU0104QWBQARQ1.kicad_sym")(options "")(descr ""))
+  (lib (name "CYUSB3014-BZXC")(type "KiCad")(uri "${KIPRJMOD}/CYUSB3014-BZXC/KiCad/CYUSB3014-BZXC.kicad_sym")(options "")(descr ""))
+  (lib (name "NCP360")(type "KiCad")(uri "${KIPRJMOD}/ul_NCP360SNT1G/KiCAD/2023-04-20_05-50-10/2023-04-20_05-50-10.kicad_sym")(options "")(descr ""))
+  (lib (name "SP3010-04UTG")(type "KiCad")(uri "${KIPRJMOD}/ul_SP3010-04UTG/KiCAD/2023-04-20_06-11-21/2023-04-20_06-11-21.kicad_sym")(options "")(descr ""))
+  (lib (name "SC189")(type "KiCad")(uri "${KIPRJMOD}/ul_SC189CSKTRT/KiCAD/2023-04-20_06-25-10/2023-04-20_06-25-10.kicad_sym")(options "")(descr ""))
+)

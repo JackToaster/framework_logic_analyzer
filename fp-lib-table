@@ -1,0 +1,10 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Expansion_Card")(type "KiCad")(uri "${KIPRJMOD}/Expansion_Card.pretty")(options "")(descr ""))
+  (lib (name "Microcontroller")(type "KiCad")(uri "/home/jackl/git/ExpansionCards/Electrical/Microcontroller/Microcontroller.pretty")(options "")(descr ""))
+  (lib (name "TXU0104")(type "KiCad")(uri "${KIPRJMOD}/TXU0104QWBQARQ1/KiCad")(options "")(descr ""))
+  (lib (name "CYUSB301X")(type "KiCad")(uri "${KIPRJMOD}/CYUSB3014-BZXC/KiCad")(options "")(descr ""))
+  (lib (name "SP3010")(type "KiCad")(uri "${KIPRJMOD}/ul_SP3010-04UTG/KiCAD/2023-04-20_06-11-21/footprints.pretty")(options "")(descr ""))
+  (lib (name "NCP360")(type "KiCad")(uri "${KIPRJMOD}/ul_NCP360SNT1G/KiCAD/2023-04-20_05-50-10/footprints.pretty")(options "")(descr ""))
+  (lib (name "SC189")(type "KiCad")(uri "${KIPRJMOD}/ul_SC189CSKTRT/KiCAD/2023-04-20_06-25-10/footprints.pretty")(options "")(descr ""))
+)
