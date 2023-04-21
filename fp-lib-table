@@ -7,4 +7,5 @@
   (lib (name "SP3010")(type "KiCad")(uri "${KIPRJMOD}/ul_SP3010-04UTG/KiCAD/2023-04-20_06-11-21/footprints.pretty")(options "")(descr ""))
   (lib (name "NCP360")(type "KiCad")(uri "${KIPRJMOD}/ul_NCP360SNT1G/KiCAD/2023-04-20_05-50-10/footprints.pretty")(options "")(descr ""))
   (lib (name "SC189")(type "KiCad")(uri "${KIPRJMOD}/ul_SC189CSKTRT/KiCAD/2023-04-20_06-25-10/footprints.pretty")(options "")(descr ""))
+  (lib (name "20021311-00016T4LF")(type "KiCad")(uri "${KIPRJMOD}/20021311-00016T4LF.pretty")(options "")(descr ""))
 )
